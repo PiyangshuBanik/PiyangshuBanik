@@ -1,5 +1,5 @@
 Hi, I'm @PiyangshuBanik.
-🚀 As a first-year Computer Science Engineering student at Chandigarh University, specializing in the Internet of Things (IoT), I am passionate about harnessing technology to create meaningful solutions. 🌐
+🚀 As a core-front Computer Science Engineering student at Chandigarh University, specializing in the Internet of Things (IoT), I am passionate about harnessing technology to create meaningful solutions. 🌐
 
 👨‍💻 I have honed my skills in Python, showcasing my projects on GitHub to demonstrate my practical application of the language. Currently delving into C, C++, Java, and JavaScript, my aim is to continuously enhance my expertise and stand out in the dynamic field of technology.
 
